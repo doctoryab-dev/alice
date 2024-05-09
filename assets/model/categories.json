@@ -1,0 +1,89 @@
+{
+    "success": true,
+    "data": [
+        {
+            "_id": "60461e0687986721840693fc",
+            "is_deleted": false,
+            "_category": {
+                "_id": "6045b50127d51d0cf07b9bf2",
+                "is_deleted": false,
+                "f_title": "قلب",
+                "e_title": "heart",
+                "p_title": "قلب",
+                "background": "#FF5D5D",
+                "__v": 0,
+                "photo": "/categories/e472a5fb-ab44-42ca-956b-fe496f3cfbd6.png"
+            }
+        },
+        {
+            "_id": "60462838f0b38b2454751284",
+            "is_deleted": false,
+            "_category": {
+                "_id": "6045b5bb0cc12f1a48bbd4c3",
+                "is_deleted": false,
+                "f_title": "اورولوژی",
+                "e_title": "orology",
+                "p_title": "اورولوژی",
+                "background": "#428DFF",
+                "__v": 0,
+                "photo": "/categories/b618396c-4c29-4792-8b8e-ca25bf70eaea.png"
+            }
+        },
+        {
+            "_id": "6047057ce042d23120b66390",
+            "is_deleted": false,
+            "_category": {
+                "_id": "6045b6880cc12f1a48bbd4c5",
+                "is_deleted": false,
+                "f_title": "راینولوژی",
+                "e_title": "ranology",
+                "p_title": "راینولوژی",
+                "background": "#5C128D",
+                "__v": 0,
+                "photo": "/categories/9f9cfbc2-3100-4fae-8481-44f80190dfb3.png"
+            }
+        },
+        {
+            "_id": "60470595e042d23120b66392",
+            "is_deleted": false,
+            "_category": {
+                "_id": "60462036949df7164496b5b4",
+                "is_deleted": false,
+                "f_title": "دیابت",
+                "e_title": "diabet",
+                "p_title": "دیابت",
+                "background": "#FF7D95",
+                "__v": 0,
+                "photo": "/categories/0082c71b-36cd-496e-a307-113e1435986e.png"
+            }
+        },
+        {
+            "_id": "604705a2e042d23120b66394",
+            "is_deleted": false,
+            "_category": {
+                "_id": "60470426e042d23120b6638d",
+                "is_deleted": false,
+                "f_title": "بهداشت و دندان",
+                "e_title": "tooth",
+                "p_title": "بهداشت و دندان",
+                "background": "#7BABF3",
+                "__v": 0,
+                "photo": "/categories/d33da23b-efad-4c54-844f-00703485d0c7.png"
+            }
+        },
+        {
+            "_id": "604705b9e042d23120b66396",
+            "is_deleted": false,
+            "_category": {
+                "_id": "6047047ae042d23120b6638e",
+                "is_deleted": false,
+                "f_title": "گوش",
+                "e_title": "ear",
+                "p_title": "گوش",
+                "background": "#B5886D",
+                "__v": 0,
+                "photo": "/categories/8f41069d-1104-4dd3-9d49-4afe7d200e0c.png"
+            }
+        }
+    ]
+}

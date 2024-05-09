@@ -1,0 +1,342 @@
+{
+  "project_info": {
+    "project_number": "107133258114",
+    "project_id": "plucky-cascade-303707",
+    "storage_bucket": "plucky-cascade-303707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107133258114:android:78926ee4e016bd0795679b",
+        "android_client_info": {
+          "package_name": "app.doctoryab.panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107133258114-0dsj4450fqi3ss20bk08n5efect6l5t6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.doctoryab.panel",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "107133258114-dm62e437lhvm8i64u573ehc5kc4d7h0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.doctoryab.panel",
+            "certificate_hash": "b8e31c85c363e13bbf89f3dd1cbabb73f8627061"
+          }
+        },
+        {
+          "client_id": "107133258114-qe3d7bvhvtl1b94hlb2nl0v7asbn4g0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.doctoryab.panel",
+            "certificate_hash": "4a6e9bb881e8924abbe48d301684095c005ce165"
+          }
+        },
+        {
+          "client_id": "107133258114-3a761ujpmaqoldkocgs18svi26h50v1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7UbGg1k55Md0PoqVotVCnkUlCec66gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107133258114-3a761ujpmaqoldkocgs18svi26h50v1a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107133258114-17iknibvjopg77raaqng5r3lv5ppnoku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.microcis.doctorYab"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107133258114:android:244a1026259a84b395679b",
+        "android_client_info": {
+          "package_name": "com.microcis.doctor_yab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107133258114-0me4jle7g2jdm76cgek48gmuqai2gpv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab",
+            "certificate_hash": "aabc645f4d769e8bde3a3622cbb83c288b04698f"
+          }
+        },
+        {
+          "client_id": "107133258114-58cn9fajc91j41fftgc7brshegu7ls36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab",
+            "certificate_hash": "f37ad44f2f92b7a7f9968008922122f79ea9a6a3"
+          }
+        },
+        {
+          "client_id": "107133258114-5o5ch6vg2c031gavobbkceil3vh8codk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab",
+            "certificate_hash": "ae53b2303d46054ccf59b1bcffd9b15a1a795a28"
+          }
+        },
+        {
+          "client_id": "107133258114-bshokj7357epd150j0028mnhv894u240.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab",
+            "certificate_hash": "ae087d2f17273ef1b0470e04d9df49e16bd99b68"
+          }
+        },
+        {
+          "client_id": "107133258114-ep0h218636pqltanva0ccvtd3qrash45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab",
+            "certificate_hash": "6a01a562ea03ae37f5f994ad5eba3490cdddb9d0"
+          }
+        },
+        {
+          "client_id": "107133258114-hcc66v2rkae559lfjnbus805lljdgr3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab",
+            "certificate_hash": "f002fc4dab37bd4dace03bb86175a9a14af39d29"
+          }
+        },
+        {
+          "client_id": "107133258114-j8fsifp75lq6dauu0te0k3ue0d6jjkvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab",
+            "certificate_hash": "4a6e9bb881e8924abbe48d301684095c005ce165"
+          }
+        },
+        {
+          "client_id": "107133258114-jkh1fltfl45gnii8er4ggl2h7r9c5mrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab",
+            "certificate_hash": "7e6cdbbcd8c936b97d4f8235c9690080ebcb675e"
+          }
+        },
+        {
+          "client_id": "107133258114-qs1e984k0qviaukcgcb56pbspmbheg62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab",
+            "certificate_hash": "8a0e2bf2a1a6bfb48e8edf06163148626f178cc3"
+          }
+        },
+        {
+          "client_id": "107133258114-tqrg3plkitftqgr4sp59kmng8019dpl8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab",
+            "certificate_hash": "7ef0dec5c4a73e173d1075674306d465747d1fc9"
+          }
+        },
+        {
+          "client_id": "107133258114-v488mepau7uar7ns15hc0e3uqv2g3mgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab",
+            "certificate_hash": "30a2d99cfcb615526231db1c1c26601403118772"
+          }
+        },
+        {
+          "client_id": "107133258114-v65472aapud5ups3adosqg8ctq92c33t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab",
+            "certificate_hash": "4f071acb99c88bde3c313ee25f2f8b1ee3d01b8a"
+          }
+        },
+        {
+          "client_id": "107133258114-vtlrvtdsanrhas0j5stl79vct9880vg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab",
+            "certificate_hash": "b8e31c85c363e13bbf89f3dd1cbabb73f8627061"
+          }
+        },
+        {
+          "client_id": "107133258114-3a761ujpmaqoldkocgs18svi26h50v1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7UbGg1k55Md0PoqVotVCnkUlCec66gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107133258114-3a761ujpmaqoldkocgs18svi26h50v1a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107133258114-17iknibvjopg77raaqng5r3lv5ppnoku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.microcis.doctorYab"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107133258114:android:c7bc182eaf3612c895679b",
+        "android_client_info": {
+          "package_name": "com.microcis.doctor_yab.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107133258114-14jmald68oc7apehqa2r5n7nudvt5uij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab.dev",
+            "certificate_hash": "30a2d99cfcb615526231db1c1c26601403118772"
+          }
+        },
+        {
+          "client_id": "107133258114-1788c63a9gegrmgqs22mmq86giq38ri6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab.dev",
+            "certificate_hash": "8a0e2bf2a1a6bfb48e8edf06163148626f178cc3"
+          }
+        },
+        {
+          "client_id": "107133258114-1c1j0fbi4rovjkvf1fqknc58650le21c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab.dev",
+            "certificate_hash": "7e6cdbbcd8c936b97d4f8235c9690080ebcb675e"
+          }
+        },
+        {
+          "client_id": "107133258114-1ksa2sfr285ojuk5teq2rqfhu0be4nho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab.dev",
+            "certificate_hash": "6a01a562ea03ae37f5f994ad5eba3490cdddb9d0"
+          }
+        },
+        {
+          "client_id": "107133258114-2c99t8voqbp8mpct54pfil72go48c42i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab.dev",
+            "certificate_hash": "7ef0dec5c4a73e173d1075674306d465747d1fc9"
+          }
+        },
+        {
+          "client_id": "107133258114-78hi80gadrkpmdpkpopriolqs3uls153.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab.dev",
+            "certificate_hash": "aabc645f4d769e8bde3a3622cbb83c288b04698f"
+          }
+        },
+        {
+          "client_id": "107133258114-a2tbpscpbtkkgc3he1ntt3k875or52m5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab.dev",
+            "certificate_hash": "ae53b2303d46054ccf59b1bcffd9b15a1a795a28"
+          }
+        },
+        {
+          "client_id": "107133258114-b5sestimlka6jls2mfro4mpahknak0fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab.dev",
+            "certificate_hash": "4f071acb99c88bde3c313ee25f2f8b1ee3d01b8a"
+          }
+        },
+        {
+          "client_id": "107133258114-j172u16dj1bua0fsjnq344eb8v2r8b8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab.dev",
+            "certificate_hash": "f002fc4dab37bd4dace03bb86175a9a14af39d29"
+          }
+        },
+        {
+          "client_id": "107133258114-l5o0djtcicbdvln3c3vmb3muirs9lb7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab.dev",
+            "certificate_hash": "b8e31c85c363e13bbf89f3dd1cbabb73f8627061"
+          }
+        },
+        {
+          "client_id": "107133258114-q2tjcpq4ov7vmelkhq8de166ranbr0cu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab.dev",
+            "certificate_hash": "ae087d2f17273ef1b0470e04d9df49e16bd99b68"
+          }
+        },
+        {
+          "client_id": "107133258114-r55muvrfqgjfb3bpedd2sted9t6ntg04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microcis.doctor_yab.dev",
+            "certificate_hash": "4a6e9bb881e8924abbe48d301684095c005ce165"
+          }
+        },
+        {
+          "client_id": "107133258114-3a761ujpmaqoldkocgs18svi26h50v1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7UbGg1k55Md0PoqVotVCnkUlCec66gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107133258114-3a761ujpmaqoldkocgs18svi26h50v1a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107133258114-17iknibvjopg77raaqng5r3lv5ppnoku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.microcis.doctorYab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1010256380904",
+    "project_id": "doctoryab-demo",
+    "storage_bucket": "doctoryab-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010256380904:android:b8639a0572465ccf531a5d",
+        "android_client_info": {
+          "package_name": "app.doctoryab.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010256380904-3258levglul37sjhkrm0i70r23lhbdio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.doctoryab.demo",
+            "certificate_hash": "f37ad44f2f92b7a7f9968008922122f79ea9a6a3"
+          }
+        },
+        {
+          "client_id": "1010256380904-c2eucv31jgpn0ckt0hkblamshvd6oa6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDqu4V4kZ1EiKJn3o1pw3hLgUGO0nUF3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010256380904-c2eucv31jgpn0ckt0hkblamshvd6oa6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
